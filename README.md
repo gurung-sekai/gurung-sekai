@@ -38,9 +38,13 @@ Exploring LLM-powered personalised learning, knowledge assessment, and targeted 
 
 ---
 
-### Selected Projects
+### Featured Projects
 
-Explore my pinned repositories below to see examples of my work.
+**[PokerTool](https://github.com/cog36/PokerTool)**  
+Collaborative full-stack project built at HackNotts 2026. Contributed to the React frontend, AI chatbot integration, mobile experience, and QR-code sharing. [View my merged contributions](https://github.com/cog36/PokerTool/pulls?q=is%3Apr+author%3Agurung-sekai).
+
+**[Pacman-Pathfinding](https://github.com/gurung-sekai/Pacman-Pathfinding)**  
+Browser-based Pac-Man game featuring JavaScript, HTML5 Canvas, collision detection, and shortest-path ghost AI.
 
 ---
 
