@@ -1,24 +1,22 @@
 # Pritam Gurung
 
-`~/portfolio $ whoami`
-
 **BSc Computer Science | University of Nottingham**
 
-Final-year Computer Science student and aspiring software engineer exploring **full-stack development** and **artificial intelligence**.
+Final-year Computer Science student exploring **software engineering, full-stack development, and artificial intelligence**.
 
 ---
 
-### Currently Building
+### Current Project
 
-**Personalised AI Tutor — Final-Year Dissertation**
+**Personalised AI Tutor | Final-Year Dissertation**
 
-Exploring LLM-powered personalised learning, knowledge assessment, and targeted correction of misconceptions.
+Developing an LLM-driven tutoring system that assesses understanding, identifies misconceptions, and delivers targeted learning support. The project explores how to make AI-generated teaching and feedback more reliable.
 
 ---
 
 ### Technical Skills
 
-**Programming Languages**
+**Languages & Web Technologies**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
@@ -31,23 +29,23 @@ Exploring LLM-powered personalised learning, knowledge assessment, and targeted 
 **Developer Tools**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub" />&nbsp;
-  <strong>GitHub</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
 </p>
+
+Git · GitHub
 
 ---
 
 ### Featured Projects
 
-**[PokerTool](https://github.com/cog36/PokerTool)**  
-Collaborative full-stack project built at HackNotts 2026. Contributed to the React frontend, AI chatbot integration, mobile experience, and QR-code sharing. [View my merged contributions](https://github.com/cog36/PokerTool/pulls?q=is%3Apr+author%3Agurung-sekai).
+**[PokerTool](https://github.com/cog36/PokerTool)** — *Collaborative project, HackNotts 2026*  
+React-based poker learning application with AI coaching and mobile support. I contributed to the frontend, chatbot interface, mobile experience, and QR-code sharing. [My merged pull requests](https://github.com/cog36/PokerTool/pulls?q=is%3Apr+author%3Agurung-sekai).
 
-**[Pacman-Pathfinding](https://github.com/gurung-sekai/Pacman-Pathfinding)**  
-Browser-based Pac-Man game featuring JavaScript, HTML5 Canvas, collision detection, and shortest-path ghost AI.
+**[Pacman-Pathfinding](https://github.com/gurung-sekai/Pacman-Pathfinding)** — *JavaScript / HTML5 Canvas*  
+Browser-based Pac-Man game implementing collision detection, real-time game logic, and shortest-path ghost movement.
 
 ---
 
-### Connect
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/pritamgurung1/) · [Email](mailto:gurung.pg78@gmail.com)
